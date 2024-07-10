@@ -1,0 +1,4 @@
+DEBUG: log bem parecido que fazemos pra achar algum problema, log passo a passo
+INFO: log util (nao tao passo a passo como o DEBUG) mas pra ter informacoes sobre oq ta acontecendo
+WARNING: esse aqui eu acho de log de "observacao". por exemplo algum processo funcionou mas com ressalvas, e ai o log de warning explica pq
+ERRO: processo falhou mesmo
